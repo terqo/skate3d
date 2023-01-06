@@ -1,4 +1,4 @@
-WEBPAGE LINK: https://skate3d.netlify.app/
+YOU CAN SEE HOW THE WEBSITE WORKS BY THE LINK ON THE RIGHT OR IN THE REPOSITORY LINK
 
 # Getting Started with Create React App
 
